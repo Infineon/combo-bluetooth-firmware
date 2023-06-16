@@ -3,8 +3,9 @@
 
 
 This is the Infineon WiFi Bluetooth Combo chip firmware repo for Bluetooth Code Example and Tool.
-It has to work with other repos.
-
+Below is the support Combo Chips:
+* Cyw5557x
+* CYW943439
 
 ***
 
